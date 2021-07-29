@@ -1,0 +1,5 @@
+This Text file is solely made for checking the working of your program on your system. You can import itdirectly on your console by making required changes.
+In this file I have also included the I/O File handeling to just learn it efficiently. No Sentimental hurtings shall be entertained.
+
+Demo Text :
+Oh Shit ! I forgot to submit my Assignment.
